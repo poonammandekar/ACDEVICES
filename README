@@ -1,0 +1,1 @@
+this describes how we can control AC devices remotely.for this we can use relay.we use ESP8266 NODEMCU to create wifi zone,we can connect this wifi to our mobile.put IP address in browser and control the devices which we want to on or off
